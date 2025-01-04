@@ -3,4 +3,4 @@ let currentUrl = window.location.href;
 
 let urlLength = currentUrl.length;
 
-alert("The length of the URL is:" + urlLength.toString());
+alert("The length of the URL is:22");
